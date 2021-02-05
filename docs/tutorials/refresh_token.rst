@@ -1,7 +1,10 @@
 .. _refresh_token:
 
-Obtaining a Refresh Token
-=========================
+Working with Refresh Tokens
+===========================
+
+TODO: this page needs to be updated to provide an example of how to use the obtained
+refresh_token.
 
 The following program can be used to obtain a refresh token with the desired scopes.
 Such a token can be used in conjunction with the ``refresh_token`` keyword argument
