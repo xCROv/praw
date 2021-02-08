@@ -4,6 +4,9 @@ Change Log
 Unreleased
 ----------
 
+0.dev0 (2021/02/08)
+-------------------
+
 **Added**
 
 * Add method :meth:`~.Subreddits.premium` to reflect the naming change in Reddit's API.
